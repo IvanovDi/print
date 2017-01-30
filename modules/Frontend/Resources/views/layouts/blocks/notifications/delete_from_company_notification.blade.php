@@ -1,0 +1,1 @@
+Company <b>{!! $company->company_name ? $company->company_name : $company->email !!}</b> deactivated your account

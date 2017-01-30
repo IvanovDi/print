@@ -1,0 +1,1 @@
+<a class="btn btn-success" href="{!! $url !!}">Accept invitation</a>
